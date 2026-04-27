@@ -1,4 +1,4 @@
-// Chapter : 38 to 44
+// Chapter : 38 to 42
 
 // Question # 1
 // function power(a, b) {
@@ -156,3 +156,47 @@
 //     console.log("Remaining amount:", remainingAmount)
 // }
 // cashier(470)
+
+// CHAPTER 43 to 48
+
+// Question # 1
+// function showAlert () {
+//     alert("Hello World!")
+// }
+
+// Question # 2
+// function mobileAlert() {
+//     alert("Thanks for purchasing a phone from us")
+// }
+
+// Question # 3
+// var Stuent1 = document.getElementById("row1")
+// var Stuent2 = document.getElementById("row2")
+// var Stuent3 = document.getElementById("row3")
+// function deleteStuent1() {
+//     Stuent1.style.display = "none"
+// }
+// function deleteStuent2() {
+//     Stuent2.style.display = "none"
+// }
+// function deleteStuent3() {
+//     Stuent3.style.display = "none"
+// }
+
+// Question # 4
+// var image = document.getElementById("img")
+// function changeImg() {
+//     image.src = "images/images2.jpg"
+// }
+// function changeImgBack() {
+//     image.src = "images/images1.jpg"
+// }
+
+// Question # 5
+// var counter = document.getElementById("counter")
+// function increase() {
+//     counter.innerText++
+// }
+// function decrease() {
+//     counter.innerText--
+// }
